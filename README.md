@@ -61,59 +61,10 @@ Welcome to the *School CRM System* project! This system is designed to provide a
 
 ---
 
-## 📥 Installation & Setup
 
-### 1. *Clone the Repository* 
-   ```bash
-   git clone https://github.com/your-repo/school-crm-system.git
-   ```
-
-### 2. *Install Dependencies* 
-   Navigate to the project folder and install the necessary packages:
-   ```bash
-   cd school-crm-system
-   npm install
-   ```
-
-### 3. *Run the Application* 
-   Start the local development server:
-   ```bash
-   npm start
-   ```
-   The app will be available at: **http://localhost:3000**
-
-### 4. *JSON API Setup*
-   - Ensure the backend API is correctly set up for fetching diary entries, attendance, and mock tests.
-   - Adjust the sample JSON responses for testing as required.
-
----
-
-## 🚀 Future Enhancements
-
-- 🔔 **Push Notifications**: Real-time notifications for instant updates to parents and students.
-- 📊 **Progress Tracking**: Detailed tracking of student performance and progress.
-- 👨‍🏫 **User Role Enhancements**: Tailored dashboards for teachers, students, and admins.
-
----
-
-## 🤝 Contribution Guidelines
-
-We welcome contributions! Feel free to open issues or submit pull requests to help improve the system. Bug fixes, enhancements, and new ideas are always appreciated.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. For more information, refer to the LICENSE file.
-
----
 
 ### 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/99f053d8-8917-4513-a79f-bf5154f1c9db)
 ![image](https://github.com/user-attachments/assets/d41d8b2a-0e40-487e-87ad-1a9e12caf153)
 
-[View more screenshots](https://github.com/user-attachments/assets/727a661c-65e0-4cfc-bf13-4a6675a1f4a1)
 
----
-
-### 💡 We hope this School CRM System makes learning smoother for students and eases communication between parents and the school! 🎉
